@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently pursuing **B.Tech CSE (Data Science)** at Buddha Institute of Technology
 - 🌱 I'm learning **Full-Stack Development, JavaScript, Python, and exploring modern web technologies**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/anjalikumarisingh?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Ankita2629?tab=repositories)
 - 💻 I'm passionate about building **user-friendly web applications** and **AI-powered solutions**
 - 🎓 **B.Tech CSE (Data Science)** student at Buddha Institute of Technology with **7.5/10** SGPA | Class of 2027
 - 🏆 **Runner-up at TechYuva** - Showcasing technical innovation and problem-solving skills
