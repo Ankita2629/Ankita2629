@@ -5,7 +5,7 @@
 - 🌱 I'm learning **Full-Stack Development, JavaScript, Python, and exploring modern web technologies**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/anjalikumarisingh?tab=repositories)
 - 💻 I'm passionate about building **user-friendly web applications** and **AI-powered solutions**
-- 🎓 **B.Tech CSE (Data Science)** student | Class of 2027
+- 🎓 **B.Tech CSE (Data Science)** student at Buddha Institute of Technology with **7.5/10** SGPA | Class of 2027
 - 🏆 **Runner-up at TechYuva** - Showcasing technical innovation and problem-solving skills
 
 ## 🚀 Featured Projects
@@ -18,7 +18,7 @@
 - Features include course information, faculty details, and student portal sections
 - Focused on clean code structure and optimized performance
 
-### 🤖 Gemini-Powered Desktop Assistant
+### 🤖 IRA - Gemini-Powered Desktop Assistant
 **Python | HTML | CSS | JavaScript | Google Gemini API**
 - Built an intelligent desktop assistant leveraging Google Gemini API for natural language processing
 - Integrated voice recognition and text-to-speech capabilities for hands-free interaction
@@ -40,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anjali-kumari-singh/" target="blank">
+  <a href="https://www.linkedin.com/in/ankita-singh-932729309/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
