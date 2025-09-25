@@ -26,6 +26,15 @@
 - Implemented features like task scheduling, information retrieval, and smart responses
 - Demonstrates proficiency in API integration and cross-platform development
 
+### 🌌 3D CSS Solar System
+**HTML5 | CSS3 | JavaScript/jQuery**
+- Developed an interactive 3D solar system visualization using pure HTML5, CSS3, and JavaScript
+- Created realistic orbital animations for all 8 planets and Earth's moon without external 3D libraries
+- Implemented interactive 2D/3D view toggle, zoom controls, and planet information panels
+- Featured Saturn's detailed ring system and responsive design for all devices
+- Built educational scaling options and dynamic planet data display system
+- Demonstrates advanced CSS3 transforms, animations, and interactive JavaScript controls
+
 ## 🏆 Achievements & Recognition
 
 **TechYuva Competition** | Runner-up
@@ -137,15 +146,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitakumarisingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankita2629&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitakumarisingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita2629&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakumarisingh&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita2629&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -156,5 +165,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalikumarisingh&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankita2629&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
