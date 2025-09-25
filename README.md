@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjali Kumari Singh</h1>
+<h1 align="center">Hi 👋, I'm Ankita Kumari Singh</h1>
 <h3 align="center">An aspiring Full-Stack Developer passionate about creating innovative web solutions</h3>
 
 - 🔭 I'm currently pursuing **B.Tech CSE (Data Science)** at Buddha Institute of Technology
@@ -137,15 +137,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalikumarisingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitakumarisingh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikumarisingh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitakumarisingh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalikumarisingh&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitakumarisingh&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
